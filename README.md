@@ -16,6 +16,7 @@ Python, SQL, pandas, NumPy, scikit-learn, matplotlib/seaborn, Jupyter notebooks,
 Featured Work
 
 Projects highlighted here demonstrate the application of machine learning, deep learning, and data engineering techniques to real-world healthcare datasets. Current work emphasizes building robust predictive models, advanced data pipelines, and scalable analytics solutions, with a focus on extracting actionable insights from complex clinical data.
+
 Areas of Interest
 
 Oncology data analytics
