@@ -1,6 +1,6 @@
 Hi, I'm Humphrey Gitonga
 
-Clinician | Machine Learning | Oncology & Healthcare Data
+Clinician | Data Scietistist | AI in Healthcare 
 
 About Me
 
