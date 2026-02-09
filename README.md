@@ -1,8 +1,8 @@
-👋 Hi, I'm Humphrey Gitonga
+Hi, I'm Humphrey Gitonga
 
 Clinician | Machine Learning | Oncology & Healthcare Data
 
-🧠 About Me
+About Me
 
 I am a clinician focused on applying machine learning and data science methods to healthcare data, with a particular interest in oncology, predictive modeling, and clinical decision support.
 
@@ -13,11 +13,11 @@ This GitHub profile highlights selected projects that demonstrate my approach to
 🔧 Technical Focus
 Python, SQL, pandas, NumPy, scikit-learn, matplotlib/seaborn, Jupyter notebooks, TensorFlow(ML)
 
-📂 Featured Work
+Featured Work
 
 Projects showcased here focus on applying machine learning techniques to real-world healthcare datasets. Current work includes regression-based modeling in non-oncology domains, with methods intended to be transferable to oncology and broader clinical applications.
 
-🎯 Areas of Interest
+Areas of Interest
 
 Oncology data analytics
 
@@ -29,10 +29,10 @@ Population and preventive health
 
 Responsible AI in clinical systems
 
-📫 Contact
+ Contact
 
-📧 Email: hgds_@outlook.com
+Email: hgds_@outlook.com
 
-💼 LinkedIn: https://www.linkedin.com/in/humphrey-gitonga-7228a31ba
+LinkedIn: https://www.linkedin.com/in/humphrey-gitonga-7228a31ba
 
-🧑‍💻 GitHub: https://github.com/h-gitonga
+ GitHub: https://github.com/h-gitonga
