@@ -1,6 +1,6 @@
 Hi, I'm Humphrey Gitonga
 
-Clinician | Data Scietistist | AI in Healthcare 
+Clinician | Data Scientist | AI in Healthcare 
 
 About Me
 
@@ -10,8 +10,8 @@ My work sits at the intersection of medicine and data, where I explore how stati
 
 This GitHub profile highlights selected projects that demonstrate my approach to healthcare data analysis and model development.
 
-🔧 Technical Focus
-Python, SQL, pandas, NumPy, scikit-learn, matplotlib/seaborn, Jupyter notebooks, TensorFlow(ML)
+Technical Focus
+Python, SQL, pandas, NumPy, scikit-learn, matplotlib/seaborn, Jupyter notebooks, TensorFlow
 
 Featured Work
 
