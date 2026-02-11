@@ -10,13 +10,13 @@ My work sits at the intersection of medicine and data, where I explore how stati
 
 This GitHub profile highlights selected projects that demonstrate my approach to healthcare data analysis and model development.
 
-Technical Focus
+Technical Focus:
 Python, SQL, PySpark, Docker, Apache Airflow, Pandas, NumPy, scikit-learn, TensorFlow, Jupyter Notebooks, data visualization libraries (Matplotlib, Seaborn), and healthcare data systems.
-Featured Work
+Featured Work:
 
 Projects highlighted here demonstrate the application of machine learning, deep learning, and data engineering techniques to real-world healthcare datasets. Current work emphasizes building robust predictive models, advanced data pipelines, and scalable analytics solutions, with a focus on extracting actionable insights from complex clinical data.
 
-Areas of Interest
+Areas of Interest:
 
 Oncology data analytics
 
@@ -28,7 +28,7 @@ Population and preventive health
 
 Responsible AI in clinical systems
 
- Contact
+ Contact:
 
 Email: hgds_@outlook.com
 
