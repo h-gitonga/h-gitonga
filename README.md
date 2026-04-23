@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**h-gitonga/h-gitonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Humphrey Gitonga
 
-Here are some ideas to get you started:
+Clinician | Machine Learning & Data Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+I am a clinician focused on applying machine learning and data engineering methods to healthcare data, with a particular interest in oncology, predictive modeling, and clinical decision support.
+
+My work sits at the intersection of medicine and data, where I explore how statistical and machine learning techniques can be used to uncover patterns, support risk stratification, and inform better health decisions.
+
+This GitHub profile highlights selected projects that demonstrate my approach to healthcare data analysis and model development.
+
+Technical Focus: Python, SQL, Apache Airflow, Docker, PySpark, Pandas, NumPy, scikit-learn, TensorFlow, data visualization libraries (Matplotlib & Seaborn), and healthcare data systems.
+
+Featured Work: Projects highlighted here demonstrate the application of machine learning, data engineering and deep learning to real-world healthcare datasets. Current work emphasizes building robust predictive models and scalable analytics solutions, with a focus on extracting actionable insights from complex clinical data.
+
+Areas of Interest:
+
+Machine learning in healthcare
+
+Predictive modeling and risk stratification
+
+Population and preventive health
+
+Responsible AI in clinical systems
+
+Contact:
+
+Phone: +254 729 621 672
+
+Email: hgds_@outlook.com
+
+LinkedIn: https://www.linkedin.com/in/hg-7228a31ba/
+
+Website: https://hgitonga.my.canva.site
+
