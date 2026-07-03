@@ -2,7 +2,7 @@
 
 I'm Humphrey Gitonga
 
-Clinician | Machine Learning & Data Engineer
+Clinician | Machine Learning Engineer
 
 About Me
 
