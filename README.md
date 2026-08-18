@@ -14,11 +14,11 @@ This GitHub profile highlights selected projects that demonstrate my approach to
 
 Tools & Technologies: Python, SQL 
 
-• Data Engineering: Apache Airflow, PySpark, Docker, Kubernetes 
+• Data Engineering: Apache Airflow, PySpark 
 
-• Data Science & ML: PyTorch, Scikit-learn, NLP, Pandas, NumPy
+• Data Science & ML: PyTorch, Scikit-learn, NLP, Pandas, NumPy, Matplotlib, Seaborn, Healthcare Data Systems
 
-• Visualization & Domain: Matplotlib, Seaborn, Healthcare Data Systems
+•  MLOps: MLflow, Docker, Git/GitHub, CI/CD
 
 Featured Work: Projects highlighted here demonstrate the application of machine learning, data engineering and deep learning to real-world healthcare datasets. Current work emphasizes building robust predictive models and scalable analytics solutions, with a focus on extracting actionable insights from complex clinical data.
 
