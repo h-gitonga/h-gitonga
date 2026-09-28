@@ -43,7 +43,7 @@ Phone: +254 729 621 672
 
 Email: hgds_@outlook.com
 
-LinkedIn: https://www.linkedin.com/in/hg-7228a31ba/
+LinkedIn: www.linkedin.com/in/humphrey-gitonga-7228a31ba
 
 Website: https://hgitonga.my.canva.site
 
