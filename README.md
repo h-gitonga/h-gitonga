@@ -18,7 +18,7 @@ This GitHub profile highlights selected projects that demonstrate my approach to
 
 **AI Engineering & Generative AI:** Artificial Intelligence (AI), Deep Learning, Natural Language Processing (NLP), Large Language Models (LLMs), Generative AI, Transformer Models, Prompt Engineering, LangChain
 
-**MLOps & Production AI:** MLflow, Docker, Kubernetes, CI/CD, Model Deployment, Model Monitoring, Machine Learning Operations (MLOps), Production AI Systems
+**MLOps & Production AI:** MLflow, Docker, CI/CD, Model Deployment, Model Monitoring, Machine Learning Operations (MLOps), Production AI Systems
 
 **Data Engineering:** Apache Airflow, PySpark, Data Pipelines, ETL Workflows, Data Processing
 
