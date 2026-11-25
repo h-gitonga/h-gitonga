@@ -10,7 +10,7 @@ I am a clinician focused on applying machine learning engineering, AI engineerin
 
 My work sits at the intersection of medicine and data, where I explore how statistical and machine learning techniques can be used to uncover patterns, support risk stratification, and inform better health decisions.
 
-This GitHub profile highlights selected projects that demonstrate my approach to healthcare data analysis and model development.
+This GitHub profile highlights selected ongoing projects that demonstrate my approach to healthcare data analysis and model development.
 
 ## Tools & Technologies: Python, SQL
 
