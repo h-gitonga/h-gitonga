@@ -6,11 +6,11 @@ I'm Humphrey Gitonga
 
 **About Me**
 
-I am a clinician focused on applying machine learning engineering, AI engineering, and data engineering methods to healthcare data, with a particular interest in oncology, molecular medicine, predictive modeling, and clinical decision support.
+I am a clinician focused on applying AI & machine learning engineering techniques to healthcare data, with a particular interest in oncology, molecular medicine, predictive modeling, and clinical decision support.
 
 My work sits at the intersection of medicine and data, where I explore how statistical and machine learning techniques can be used to uncover patterns, support risk stratification, and inform better health decisions.
 
-This GitHub profile highlights selected ongoing projects that demonstrate my approach to healthcare data analysis and model development.
+This GitHub profile highlights selected ongoing projects that demonstrate my approach to healthcare data, model development and deployment.
 
 ## Tools & Technologies: Python, SQL
 
